@@ -6,4 +6,6 @@ package typeChecker;
 public class TypeChecker
 {
 	test af p4-n
+
+	nummer 2
 }
